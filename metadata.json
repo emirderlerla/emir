@@ -1,0 +1,6 @@
+{
+  "name": "EMIR7 COMMAND CENTER",
+  "description": "Kişisel yapay zeka destekli proje, görev, fikir ve verimlilik komuta merkezi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
